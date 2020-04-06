@@ -1,3 +1,6 @@
+<img scr="public/logo.png" />
+
+
 # 🚀 Getting Started
 
 - Install Nodejs [\*\*here](https://nodejs.org) on the local machine. (Required)
