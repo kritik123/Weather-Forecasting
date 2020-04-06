@@ -1,7 +1,6 @@
-<img scr="public/logo.png" />
+![logo - Copy](https://user-images.githubusercontent.com/40329238/78571281-a3889280-7843-11ea-98c4-b4a4129b2379.png)<h1>Weather Forecasting</h1>
 
-
-# 🚀 Getting Started
+## 🚀 Getting Started
 
 - Install Nodejs [\*\*here](https://nodejs.org) on the local machine. (Required)
 
