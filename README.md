@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 > **Note**: Dark Sky had been bought by Apple and is no longer accepting new signups. For more information, read this news **[here](https://blog.darksky.net/)**.
 
-- Install Nodejs [\*\*here](https://nodejs.org) on the local machine. (Required)
+- Install Nodejs [here](https://nodejs.org) on the local machine. (Required)
 
 **\*Follow the instructions given below to set up the project locally on your machine.\***
 
