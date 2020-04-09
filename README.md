@@ -1,6 +1,7 @@
 ![logo - Copy](https://user-images.githubusercontent.com/40329238/78571281-a3889280-7843-11ea-98c4-b4a4129b2379.png)<h1>Weather Forecasting</h1>
 
 ## 🚀 Getting Started
+> **Note**: Dark Sky had been bought by Apple and is no longer accepting new signups. For more information, read this news **[here](https://blog.darksky.net/)**.
 
 - Install Nodejs [\*\*here](https://nodejs.org) on the local machine. (Required)
 
