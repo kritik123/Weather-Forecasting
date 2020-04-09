@@ -104,6 +104,9 @@ I started learning React in May 2019 and thought of putting knowledge into reali
 
 There are so many weather-related applications out in the wild. So, the goal is to create a UI that is beautiful yet simple and effective for any user to use.
 
+## 📖 Architecture
+![Weather React Application Architecture](./Weather_React_Architecture.svg)
+
 ## 💻 Technologies
 
 - This application is created with **[Create React App](https://create-react-app.dev/)**
